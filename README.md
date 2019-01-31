@@ -17,6 +17,7 @@
         print(location)
 
 > The query method will return a list of dictionaries, looking like this:
+
     {
         "admin1_code": "28", 
         "admin2_code": "1480", 
